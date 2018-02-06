@@ -5,7 +5,7 @@ Reddcoin bitcore-lib patch
 
 Install dependency:
 ```
-npm install bitcore
+npm install bitcore-lib
 ```
 
 Patch bitcore:
